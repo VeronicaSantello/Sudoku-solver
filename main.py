@@ -4,12 +4,6 @@ import functions1
 import copy
 import numpy as np
 
-"""
-First assignment AI
-Code by:
-SANTELLO VERONICA
-ROSSATO DAVIDE
-"""
 
 # easy sudoku (default input)
 matrix = np.array([[3, 7, 0, 5, 0, 0, 0, 0, 6],
